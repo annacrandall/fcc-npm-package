@@ -1,7 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Anna Crandall",
+	"description": "A project for every RadioHead lover",
+	"keywords": [
+		"freecodecamp",
+		"crazycatcoder",
+		"radiohead"
+	],
+	"license": "none",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "@freecodecamp/example":"1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
